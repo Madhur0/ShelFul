@@ -1,0 +1,45 @@
+#abcd{
+	border: 1px solid #f8f8f8;
+	background-color:#f5f5f0;
+	margin: 65px 300px 0 300px;
+	padding:25px;
+	}
+
+#cover{
+	float:left;
+	height:350px;
+	width:220px;
+}
+
+#pqr{
+	margin:-40px 0 0 240px;
+}
+#bookname{
+	text-shadow: 2px 2px 5px grey;
+	color:#006666;
+	font-family:agency fb;
+	font-size:275%;
+}
+.details{
+	color:#006666;
+	font-family:calibri;
+	font-size:125%;
+}
+#descrip{
+	color:#006666;
+	font-family:calibri;
+	font-size:125%;
+	font-stretch:justify;
+}
+button{
+	height:50px;
+	width:110px;
+	color:white;
+	background-color:#006656;
+	border-radius: 15px;
+}
+button:hover{
+	height:53px;
+	width:113px;
+	box-shadow: 5px 5px 10px grey;
+}

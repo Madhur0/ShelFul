@@ -1,0 +1,48 @@
+#abbc {
+	margin: 30px;
+}
+
+#abc{
+	margin: 50px 100px 0 100px;
+	border:2px solid #ADD8C6;
+	background-color:#ffffd9;
+	padding:25px;
+	border-radius:25px 25px 25px 25px;
+}
+
+#name {
+	margin-top:50px;
+	color:#006666;
+	text-shadow:2px 2px 5px grey;
+	font-family:agency fb;
+	font-size:275%;
+}
+
+.galry {
+	box-shadow:3px 3px 4px #006666;
+	background-color:#f8f8f8;
+    margin: 0 50px 100px 40px;
+    border: 1px solid #ccc;
+    width: 150px;
+	display:inline-block;
+	height: 225px;
+}	
+
+.galry:hover {
+	width: 155px;
+	height:235px;
+    border: 1px solid #777;
+	box-shadow:2px 2px 5px black;
+}
+
+.galry img {
+    width: 100%;
+    height: 155px;
+}
+
+div.descc {
+	background-color: #f8f8f8;
+    padding: 0px;
+	line-height:23px;
+    text-align: center;
+}

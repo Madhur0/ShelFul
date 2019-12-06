@@ -1,0 +1,40 @@
+#abcc{
+	margin: 50px 100px 0 100px;
+	border:2px solid grey;
+	background-color:#f8f8f8;
+	padding:25px;
+	border-radius:25px 25px 25px 25px;
+}
+#seriesname {
+	text-decoration:none;
+	color:#006666;
+	text-shadow:2px 2px 5px grey;
+	font-family:agency fb;
+	font-size:275%;
+}
+
+.gall {
+    margin: 0 50px 50px 40px;
+    border: 1px solid grey;
+	background-color: #f8f8f8;
+    width: 150px;
+	display:inline-block;
+	height:200px;
+}	
+
+.gall:hover {
+	width: 160px;
+	height:205px;
+    border: 1px solid #777;
+	box-shadow:2px 2px 5px black;
+}
+
+.gall img {
+    width: 100%;
+    height: 150px;
+}
+
+div.desc {
+    padding: 5px;
+    text-align: center;
+}
